@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://bjbraun.github.io/sitemap.xml
