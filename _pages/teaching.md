@@ -12,7 +12,7 @@ Mobile Health and Activity Monitoring, Spring 2022, 2023\
 Mixed Reality, Fall 2023\
 Computer Science I, Fall 2022\
 Thermodynamics II, Spring 2018\
-Dimensioning I, Fall 2017\
+Dimensioning I, Fall 2017
 
 ## Supervised Students
 Rachel Schuchert, Master's Thesis, M.Sc. in Computer Science, ETH Zurich, 09.2024 - present\
