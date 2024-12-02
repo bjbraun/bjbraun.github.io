@@ -84,7 +84,7 @@
     {
       "name": "Programming",
       "level": "Master",
-      "icon": "programming.jpg",
+      "icon": "fa-solid fa-code",
       "keywords": [
         "Python",
         "C++",
@@ -97,7 +97,7 @@
     {
       "name": "Libraries",
       "level": "Master",
-      "icon": "library.webp",
+      "icon": "fa-solid fa-folder-open",
       "keywords": [
         "PyTorch",
         "TensorFlow",
@@ -129,19 +129,19 @@
   "interests": [
     {
       "name": "Snowoarding",
-      "icon": "snowboarding.webp"
+      "icon": "fas fa-snowboarding"
     },
     {
       "name": "Ski-touring",
-      "icon": "ski_touring.webp"
+      "icon": "fa-solid fa-person-skiing-nordic"
     },
     {
       "name": "Surfing",
-      "icon": "surfing.jpg"
+      "icon": "fa-solid fa-water"
     },
     {
       "name": "Running",
-      "icon": "running.png"
+      "icon": "fas fa-running"
     }
   ]
 }
