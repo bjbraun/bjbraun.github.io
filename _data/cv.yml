@@ -31,8 +31,11 @@
     - title: Doctoral Researcher
       institution: Sensing, Interaction & Perception Lab, ETH Zurich
       year: 2022-present
-      description:
-        - Focus. Camera-based and wearable physiological sensing for health and affective computing application
+      description: 
+        title: Focus: Camera-based and wearable physiological sensing for health and affective computing application
+        contents: 
+          - test 1
+          - test 2
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
