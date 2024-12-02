@@ -27,8 +27,8 @@
       "location": "Sydney, Australia",
       "studyType": "Master exchange semester",
       "score": "7",
-      "startDate": "2020-02",
-      "endDate": "2020-02"
+      "startDate": "2020-02-01",
+      "endDate": "2020-02-01"
     },
     {
       "institution": "ETH Zurich",
@@ -55,8 +55,9 @@
       "name": "ETH Zurich",
       "position": "Head Teaching Assistant",
       "location": "Zurich, Switzerland",
-      "startDate": "2024-09",
-      "endDate": "2024-09",
+      "score": "1",
+      "startDate": "2024-09-01",
+      "endDate": "2024-09-01",
       "highlights": ["Leading a team of 10 PhDs/PostDocs responsible for a course with 180+ students (teaching, exam, mentoring)"]
     },
     {
