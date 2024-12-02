@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 ## Teaching Assistant
-Human Computer Assistant, **Head Teaching Assistant**, Fall 2024\
+Human Computer Interaction, **Head Teaching Assistant**, Fall 2024\
 Mobile Health and Activity Monitoring, Spring 2022, 2023\
 Mixed Reality, Fall 2023\
 Computer Science I, Fall 2022\
