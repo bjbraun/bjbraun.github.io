@@ -10,15 +10,15 @@
       "institution": "ETH Zurich",
       "location": "Zurich, Switzerland",
       "studyType": "PhD in Computer Science",
-      "startDate": "2022-05-01",
-      "endDate": "2026-05-01"
+      "startDate": "2022",
+      "endDate": "present"
     },
     {
       "institution": "ETH Zurich",
       "location": "Zurich, Switzerland",
       "studyType": "M.Sc. in Robotics, Systems and Control",
-      "startDate": "2019-09-01",
-      "endDate": "2021-09-01"
+      "startDate": "2019",
+      "endDate": "2021"
     },
     {
       "institution": "The University of Sydney",
@@ -48,8 +48,16 @@
     {
       "name": "ETH Zurich",
       "position": "Head Teaching Assistant",
-      "startDate": "2024-09-01",
-      "endDate": "present",
+      "startDate": "2024-09",
+      "endDate": "2025-02",
+      "highlights": ["Leading a team of 10 PhDs/PostDocs responsible for a course with 180+ students (teaching, exam, mentoring)"]
+    },
+    {
+      "name": "ABB Turbo Systems AG",
+      "position": "Engineering Intern",
+      "location": "Baden, Switzerland",
+      "startDate": "2018-10",
+      "endDate": "2019-04",
       "highlights": ["Leading a team of 10 PhDs/PostDocs responsible for a course with 180+ students (teaching, exam, mentoring)"]
     }
   ],
