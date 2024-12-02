@@ -129,19 +129,19 @@
   "interests": [
     {
       "name": "Snowoarding",
-      "icon": "fa-solid fa-tag"
+      "icon": "snowboarding.webp"
     },
     {
       "name": "Ski-touring",
-      "icon": "fa-solid fa-tag"
+      "icon": "ski_touring.webp"
     },
     {
       "name": "Surfing",
-      "icon": "fa-solid fa-tag"
+      "icon": "surfing.jpg"
     },
     {
       "name": "Running",
-      "icon": "fa-solid fa-tag"
+      "icon": "running.png"
     }
   ]
 }
