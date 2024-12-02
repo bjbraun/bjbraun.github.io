@@ -24,15 +24,14 @@
       "institution": "The University of Sydney",
       "location": "Sydney, Australia",
       "studyType": "Master exchange semester",
-      "startDate": "2020-02-01",
-      "endDate": "2020-07-01"
+      "startDate": "2020-02"
     },
     {
       "institution": "ETH Zurich",
       "location": "Zurich, Switzerland",
       "studyType": "B.Sc. in Mechanical Engineering",
-      "startDate": "2015-09-01",
-      "endDate": "2018-09-01"
+      "startDate": "2015",
+      "endDate": "2018"
     }
   ],
   "work": [
@@ -40,16 +39,15 @@
       "name": "Sensing, Interaction & Perception Lab, ETH Zurich",
       "position": "Doctoral Researcher",
       "url": "https://siplab.org/",
-      "startDate": "2022-05-01",
-      "endDate": "2026-05-01",
+      "startDate": "2022",
+      "endDate": "present",
       "summary": "Focus: Camera-based and wearable physiological sensing for health and affective computing applications",
       "highlights": ["Part I: Recording multimodal datasets of synchronized physiological signals and camera recordings", "Part II: Developing signal processing and deep-learning approaches to remotely extract physiological signals such as heart rate and electrodermal activity from facial and hand videos (Python, PyTorch, TensorFlow)", "Part III: Enhancing healthcare approaches and intelligent computer agents using remotely extracted physiological signals, for example, to provide better personalized assistance"]
     },
     {
       "name": "ETH Zurich",
       "position": "Head Teaching Assistant",
-      "startDate": "2024-09",
-      "endDate": "2025-02",
+      "startDate": "2024",
       "highlights": ["Leading a team of 10 PhDs/PostDocs responsible for a course with 180+ students (teaching, exam, mentoring)"]
     },
     {
@@ -58,21 +56,38 @@
       "location": "Baden, Switzerland",
       "startDate": "2018-10",
       "endDate": "2019-04",
-      "highlights": ["Leading a team of 10 PhDs/PostDocs responsible for a course with 180+ students (teaching, exam, mentoring)"]
+      "highlights": ["Developed a thermo-mechanical fatigue simulation for turbochargers (MATLAB, Simulink, C) on an embedded device with limited memory and computational power (version control via TFS/GIT)", "Tested and verified code using a hardware-in-the-loop test bed for late"]
+    },
+    {
+      "name": "Focus - Project Proboscis",
+      "position": "Head of Programming",
+      "location": "Zurich, Switzerland",
+      "url": "https://proboscis.ethz.ch",
+      "startDate": "2017-09",
+      "endDate": "2018-09",
+      "highlights": ["Elephant trunk-like robot capable of maneuvering through tight spaces", "Conducted the project from scratch in a team of nine using agile sprints with self-organized funding of 70K CHF", "Supervised a team of three to develop the perception and electronics (Git for version control)", "Developed the control system for remote steering"]
+    },
+    {
+      "name": "Mercedes-Benz Group",
+      "position": "Engineering Intern",
+      "location": "Sindelfingen, Germany",
+      "startDate": "2015-06",
+      "endDate": "2015-08",
+      "highlights": ["Technical internship to get practical experience in the fields of engineering"]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C++",
+        "MATLAB",
+        "Simulink",
+        "ROS",
+        "VBA"
       ]
     }
   ],
@@ -86,20 +101,30 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Basic",
+      "icon": ""
+    },
+    {
+      "language": "Latin",
+      "fluency": "Latinum",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Snowoarding",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Ski-touring",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Surfing",
+      "icon": "fa-solid fa-tag"
     }
   ]
 }
