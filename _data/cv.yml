@@ -32,16 +32,17 @@
       institution: Sensing, Interaction & Perception Lab, ETH Zurich
       year: 2022-present
       description: 
-        - test 1
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - **Focus:** Camera-based and wearable physiological sensing for health and affective computing applications
+        - **Part I:** Recording multimodal datasets of synchronized physiological signals and camera recordings
+        
+    - title: Head Teaching Assistant
+      institution: ETH Zurich
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Leading a team of 10 PhDs/PostDocs responsible for a course with 180+ students (teaching, exam, mentoring)
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+    - title: Engineering Intern
+      institution: ABB Turbo Systems AG
       year: 1917-1933
 
     - title: Professor of Theoretical Physics
