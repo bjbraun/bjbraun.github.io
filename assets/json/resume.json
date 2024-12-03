@@ -43,7 +43,7 @@
       "url": "https://siplab.org/",
       "startDate": "2022",
       "endDate": "",
-      "summary": "Focus: Camera-based and wearable physiological sensing for health and affective computing applications",
+      "summary": "**Focus**: Camera-based and wearable physiological sensing for health and affective computing applications",
       "highlights": ["Part I: Recording multimodal datasets of synchronized physiological signals and camera recordings", "Part II: Developing signal processing and deep-learning approaches to remotely extract physiological signals such as heart rate and electrodermal activity from facial and hand videos (Python, PyTorch, TensorFlow)", "Part III: Enhancing healthcare approaches and intelligent computer agents using remotely extracted physiological signals, for example, to provide better personalized assistance"]
     },
     {
