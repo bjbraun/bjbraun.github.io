@@ -27,8 +27,7 @@
       "location": "Sydney, Australia",
       "studyType": "Master exchange semester",
       "score": "7",
-      "startDate": "2020-02-01",
-      "endDate": "2020-02-01"
+      "date": "2020"
     },
     {
       "institution": "ETH Zurich",
@@ -46,8 +45,8 @@
       "location": "Zurich, Switzerland",
       "url": "https://siplab.org/",
       "startDate": "2022",
-      "score": "10",
       "endDate": "present",
+      "score": "10",
       "summary": "Focus: Camera-based and wearable physiological sensing for health and affective computing applications",
       "highlights": ["Part I: Recording multimodal datasets of synchronized physiological signals and camera recordings", "Part II: Developing signal processing and deep-learning approaches to remotely extract physiological signals such as heart rate and electrodermal activity from facial and hand videos (Python, PyTorch, TensorFlow)", "Part III: Enhancing healthcare approaches and intelligent computer agents using remotely extracted physiological signals, for example, to provide better personalized assistance"]
     },
@@ -55,9 +54,8 @@
       "name": "ETH Zurich",
       "position": "Head Teaching Assistant",
       "location": "Zurich, Switzerland",
+      "date": "2024",
       "score": "1",
-      "startDate": "2024-09-01",
-      "endDate": "2024-09-01",
       "highlights": ["Leading a team of 10 PhDs/PostDocs responsible for a course with 180+ students (teaching, exam, mentoring)"]
     },
     {
